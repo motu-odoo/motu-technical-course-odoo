@@ -1,1 +1,1 @@
-# motu-technical-course-odoo
+# motu-technical-course-odoo1
