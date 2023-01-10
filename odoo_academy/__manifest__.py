@@ -12,8 +12,6 @@
         -Attendees
     """,
     
-    'author': 'MOTU',
-    
     'website': 'https://www.odoo.com',
     
     'category': 'Training',
